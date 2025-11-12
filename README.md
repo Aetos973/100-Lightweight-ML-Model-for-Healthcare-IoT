@@ -1,1 +1,1 @@
-# 100-Lightweight-ML-Model-for-Healthcare-IoT-
+# 100-Lightweight-ML-Model-for-Healthcare-IoT
