@@ -1,0 +1,20 @@
+name: ml-iomt-pipeline
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - pytorch
+  - pyyaml
+  - python-dateutil
+  - pip:
+      - rich
+      - pydantic
+      - joblib
+      - tqdm
